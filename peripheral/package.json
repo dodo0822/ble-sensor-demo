@@ -1,0 +1,15 @@
+{
+  "name": "adxl345-ble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ble.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chih-Wei Fang",
+  "license": "MIT",
+  "dependencies": {
+    "adxl345-sensor": "0.0.8",
+    "bleno": "^0.4.2"
+  }
+}
